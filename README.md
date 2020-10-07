@@ -17,3 +17,11 @@ cd HackFbTarget
 
 
 python BruteFb.py
+
+
+
+
+Ketik email target
+
+
+Lalu ketik wordlist.txt untuk password otomtis
